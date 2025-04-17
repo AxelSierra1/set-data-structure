@@ -1,4 +1,4 @@
-#include "../src/Node.cpp"
+#include "../include/Node.h"
 
 class Set{
     private:

@@ -32,7 +32,13 @@ set-data-structure/
 
 ## How to compile and run
 ```
-g++ -o build/set_example main.cpp
+# Create the build directory if it doesn't exist
+mkdir -p build
+
+# Compile
+g++ -o build/set_example main.cpp src/Set.cpp src/Node.cpp
+
+# Run
 ./build/set_example
 ```
 

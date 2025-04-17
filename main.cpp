@@ -2,7 +2,7 @@
 #include <limits>
 #include <cmath>
 #include <conio.h>
-#include "src/Set.cpp"
+#include "include/Set.h"
 
 using namespace std;
 
