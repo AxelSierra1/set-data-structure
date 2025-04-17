@@ -5,17 +5,17 @@ This project implements a set data structure specifically for strings in C++. It
 ## Features
 
 Set Operations:
--Union
--Intersection
--Difference
--Symmetric Difference
+- Union
+- Intersection
+- Difference
+- Symmetric Difference
 
 Element Operations:
--Insert elements into a set
--Search for an element in a set
--Remove elements from a set
--Display the set
--Sort the set
+- Insert elements into a set
+- Search for an element in a set
+- Remove elements from a set
+- Display the set
+- Sort the set
 
 ## Structure
 ```
